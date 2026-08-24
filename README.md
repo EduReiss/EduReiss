@@ -116,7 +116,10 @@ Gosto de projetos que unem código e propósito: já apliquei Machine Learning s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=Jogo-Fuga-da-Serpente&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
 </a>
 <a href="https://github.com/EduReiss/Modelo-de-previs-o-de-AVC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=compresssor-de-imagens-pydroid&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=Modelo-de-previs-o-de-AVC&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
+</a>
+<a href="https://github.com/EduReiss/desafio-fullstack-veritas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=desafio-fullstack-veritas&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
 </a>
 
 </div>
@@ -129,6 +132,9 @@ Jogo de labirinto criado para a disciplina de Algoritmos I, com IA de pathfindin
 
 **Modelo de previsão de AVC - Machine Learning**
 Projeto que visa analisar e prever as chances de acontecer AVC em alguns grupos estudados.
+
+**Desafio Fullstack — React + Go**
+Kanban board completo desenvolvido para o desafio técnico da Veritas Consultoria.
 
 <br>
 
@@ -143,12 +149,11 @@ Projeto que visa analisar e prever as chances de acontecer AVC em alguns grupos 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EduReiss&theme=dark&hide_border=true&background=00000000&ring=A0A0A5&fire=A0A0A5&currStreakLabel=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EduReiss&theme=default&hide_border=true&background=00000000&ring=48484A&fire=48484A" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduReiss" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EduReiss&theme=dark&hide_border=true&background=00000000&ring=A0A0A5&fire=A0A0A5&currStreakLabel=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EduReiss&theme=default&hide_border=true&background=00000000&ring=48484A&fire=48484A" />
+  <img src="https://streak-stats.demolab.com?user=EduReiss" />
 </picture>
 
 </div>
 
 <br>
-
