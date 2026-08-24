@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320">
+<rect width="880" height="320" fill="#ffffff"/>
+<a href="https://github.com/EduReiss/Modelo-de-previs-o-de-AVC" target="_blank">
+<rect x="0" y="0" width="430" height="150" rx="14" fill="#f5f5f7" stroke="#d1d1d6" stroke-width="1"/>
+<text x="20" y="34" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1d1d1f">Modelo de previsão de AVC</text>
+<text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">Pipeline de Machine Learning (Random Forest) para</text>
+<text x="20" y="77" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">prever risco de AVC em dataset real de 5.110…</text>
+<rect x="20" y="122" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="46" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Python</text>
+<rect x="81.0" y="122" width="92" height="22" rx="11" fill="#e8e8ed"/>
+<text x="127" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">scikit-learn</text>
+<rect x="181.0" y="122" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="208" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Pandas</text>
+</a>
+<a href="https://github.com/EduReiss/Jogo-Fuga-da-Serpente" target="_blank">
+<rect x="450" y="0" width="430" height="150" rx="14" fill="#f5f5f7" stroke="#d1d1d6" stroke-width="1"/>
+<text x="470" y="34" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1d1d1f">Fuga da Serpente</text>
+<text x="470" y="58" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">Jogo de labirinto em Pygame com IA de pathfinding A*</text>
+<text x="470" y="77" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">guiando a fuga, feito para a disciplina de…</text>
+<rect x="470" y="122" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="496" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Python</text>
+<rect x="531.0" y="122" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="558" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Pygame</text>
+<rect x="592.0" y="122" width="27" height="22" rx="11" fill="#e8e8ed"/>
+<text x="606" y="137" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">A*</text>
+</a>
+<a href="https://github.com/EduReiss/analise-do-desempenho-academico-ifnmg" target="_blank">
+<rect x="0" y="170" width="430" height="150" rx="14" fill="#f5f5f7" stroke="#d1d1d6" stroke-width="1"/>
+<text x="20" y="204" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1d1d1f">Análise de Desempenho Acadêmico</text>
+<text x="20" y="228" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">Análise de desempenho de estudantes em curso EaD do</text>
+<text x="20" y="247" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">IFNMG com técnicas de Machine Learning.</text>
+<rect x="20" y="292" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="46" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Python</text>
+<rect x="81.0" y="292" width="53" height="22" rx="11" fill="#e8e8ed"/>
+<text x="108" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Pandas</text>
+<rect x="142.0" y="292" width="27" height="22" rx="11" fill="#e8e8ed"/>
+<text x="156" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">ML</text>
+</a>
+<a href="https://github.com/EduReiss/desafio-fullstack-veritas" target="_blank">
+<rect x="450" y="170" width="430" height="150" rx="14" fill="#f5f5f7" stroke="#d1d1d6" stroke-width="1"/>
+<text x="470" y="204" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1d1d1f">Desafio Fullstack Veritas</text>
+<text x="470" y="228" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">Kanban board completo desenvolvido para o desafio</text>
+<text x="470" y="247" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#48484A">técnico da Veritas Consultoria.</text>
+<rect x="470" y="292" width="46" height="22" rx="11" fill="#e8e8ed"/>
+<text x="493" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">React</text>
+<rect x="524.5" y="292" width="27" height="22" rx="11" fill="#e8e8ed"/>
+<text x="538" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">Go</text>
+<rect x="559.5" y="292" width="66" height="22" rx="11" fill="#e8e8ed"/>
+<text x="592" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1d1d1f" text-anchor="middle">REST API</text>
+</a>
+</svg>
