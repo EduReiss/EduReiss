@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Modelo de previsão de AVC",
+    "repo": "EduReiss/Modelo-de-previs-o-de-AVC",
+    "description": "Pipeline de Machine Learning (Random Forest) para prever risco de AVC em dataset real de 5.110 pacientes, com foco em recall.",
+    "tags": ["Python", "scikit-learn", "Pandas"]
+  },
+  {
+    "name": "Fuga da Serpente",
+    "repo": "EduReiss/Jogo-Fuga-da-Serpente",
+    "description": "Jogo de labirinto em Pygame com IA de pathfinding A* guiando a fuga, feito para a disciplina de Algoritmos I.",
+    "tags": ["Python", "Pygame", "A*"]
+  },
+  {
+    "name": "Análise de Desempenho Acadêmico",
+    "repo": "EduReiss/analise-do-desempenho-academico-ifnmg",
+    "description": "Análise de desempenho de estudantes em curso EaD do IFNMG com técnicas de Machine Learning.",
+    "tags": ["Python", "Pandas", "ML"]
+  },
+  {
+    "name": "Desafio Fullstack Veritas",
+    "repo": "EduReiss/desafio-fullstack-veritas",
+    "description": "Kanban board completo desenvolvido para o desafio técnico da Veritas Consultoria.",
+    "tags": ["React", "Go", "REST API"]
+  }
+]
