@@ -109,51 +109,26 @@ Gosto de projetos que unem código e propósito: já apliquei Machine Learning s
 
 <div align="center">
 
-<a href="https://github.com/EduReiss/analise-do-desempenho-academico-ifnmg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=analise-do-desempenho-academico-ifnmg&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
-</a>
-<a href="https://github.com/EduReiss/Jogo-Fuga-da-Serpente">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=Jogo-Fuga-da-Serpente&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
-</a>
-<a href="https://github.com/EduReiss/Modelo-de-previs-o-de-AVC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=Modelo-de-previs-o-de-AVC&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
-</a>
-<a href="https://github.com/EduReiss/desafio-fullstack-veritas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduReiss&repo=desafio-fullstack-veritas&theme=transparent&title_color=1d1d1f&text_color=48484A&icon_color=1d1d1f&border_color=d1d1d6" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/projects/projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/projects/projects-light.svg" />
+  <img alt="Projetos em destaque" src="https://raw.githubusercontent.com/EduReiss/EduReiss/projects/projects-light.svg" />
+</picture>
 
 </div>
-
-**Análise de Desempenho Acadêmico — Machine Learning**
-Análise de desempenho de estudantes em curso EaD do IFNMG com técnicas de ML sobre dados reais.
-
-**Fuga da Serpente — Pygame + A\***
-Jogo de labirinto criado para a disciplina de Algoritmos I, com IA de pathfinding (A*) guiando a fuga.
-
-**Modelo de previsão de AVC - Machine Learning**
-Projeto que visa analisar e prever as chances de acontecer AVC em alguns grupos estudados.
-
-**Desafio Fullstack — React + Go**
-Kanban board completo desenvolvido para o desafio técnico da Veritas Consultoria.
 
 <br>
 
-## Estatísticas do GitHub
-
+<!--
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EduReiss&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A0A0A5&text_color=ffffff&icon_color=A0A0A5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EduReiss&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=48484A&text_color=1d1d1f&icon_color=48484A" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EduReiss&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EduReiss&theme=dark&hide_border=true&background=00000000&ring=A0A0A5&fire=A0A0A5&currStreakLabel=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=EduReiss&theme=default&hide_border=true&background=00000000&ring=48484A&fire=48484A" />
-  <img src="https://streak-stats.demolab.com?user=EduReiss" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://SEU-DOMINIO.vercel.app/api?username=EduReiss&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A0A0A5&text_color=ffffff&icon_color=A0A0A5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://SEU-DOMINIO.vercel.app/api?username=EduReiss&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=48484A&text_color=1d1d1f&icon_color=48484A" />
+  <img src="https://SEU-DOMINIO.vercel.app/api?username=EduReiss&show_icons=true&hide_border=true" />
 </picture>
 
 </div>
+-->
 
 <br>
