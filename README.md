@@ -96,8 +96,11 @@ Gosto de projetos que unem código e propósito: já apliquei Machine Learning s
 ## Conquistas
 
 ° Fundador e Presidente da **Liga de Cibersegurança** (UFMA) => liderança acadêmica desde o primeiro ano
+
 ° Certificação **AWS Cloud Practitioner** *(em andamento @ Escola da Nuvem)*
+
 ° Projeto de ML aplicado a dados reais de desempenho acadêmico (IFNMG)
+
 ° Pipeline preditivo de AVC com dataset real, notebook completo e documentação bilíngue
 
 <br>
