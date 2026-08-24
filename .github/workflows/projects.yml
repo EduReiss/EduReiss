@@ -1,0 +1,32 @@
+name: Generate Projects Panel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "projects.json"
+      - ".github/scripts/generate_projects.py"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate projects-light.svg e projects-dark.svg
+        run: |
+          mkdir -p out
+          python3 .github/scripts/generate_projects.py projects.json out
+
+      - name: Publicar no branch "projects"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: projects
+          build_dir: out
+          commit_message: "Update projects panel [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
