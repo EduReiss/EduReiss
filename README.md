@@ -14,6 +14,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A0A0A5&center=true&vCenter=true&width=600&lines=eduardo%40dev%3A~%24+whoami;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFMA" />
 </picture>
 
+<!-- Cobrinha comendo contribuições -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer" />
+</picture>
+
+</div>
+
+
 </div>
 
 <br>
@@ -126,25 +149,3 @@ Projeto que visa analisar e prever as chances de acontecer AVC em alguns grupos 
 
 <br>
 
-## Cobrinha comendo meu grafo de contribuições 🐍
-
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/EduReiss/EduReiss/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=footer" />
-</picture>
-
-</div>
